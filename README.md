@@ -121,7 +121,7 @@ python 02_Remove_Duplicates.py
 
 ## 👤 Author
 
-**Your Name** Mogilipuvvu Venkata Siva Tharun
+** Name** Mogilipuvvu Venkata Siva Tharun
 
 ---
 
