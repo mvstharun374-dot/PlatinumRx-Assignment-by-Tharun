@@ -1,3 +1,22 @@
+/*
+===============================================================================
+SQL Script: Hotel Data Analysis Queries
+===============================================================================
+Script Purpose:
+    This script contains SQL queries to analyze hotel booking data.
+
+    It includes:
+    - Last booked room per user
+    - Monthly billing calculations
+    - High-value bill filtering
+    - Most and least ordered items
+    - Second highest billing customers
+
+    Run this script after schema setup to generate insights.
+===============================================================================
+*/
+
+
 -- SOLVING QUESTIONS 
 -- Q1 Find the (Last booked room): 
 SELECT user_id, room_no
