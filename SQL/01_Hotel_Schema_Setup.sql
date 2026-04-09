@@ -1,20 +1,18 @@
 /*
 ===============================================================================
-SQL Script: Hotel Data Analysis Queries
+DDL Script: Create Hotel Tables
 ===============================================================================
 Script Purpose:
-    This script contains SQL queries to analyze hotel booking data.
+    This script creates tables for the Hotel Management System including
+    users, bookings, items, and booking_commercials.
 
-    It includes:
-    - Last booked room per user
-    - Monthly billing calculations
-    - High-value bill filtering
-    - Most and least ordered items
-    - Second highest billing customers
+    It defines the database structure and relationships using primary and
+    foreign keys.
 
-    Run this script after schema setup to generate insights.
+    Run this script to initialize the hotel database schema and insert
+    sample data for testing.
 ===============================================================================
-*/ 
+*/
 CREATE DATABASE HotelDB;
 GO
 
