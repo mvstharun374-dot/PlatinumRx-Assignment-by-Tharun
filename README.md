@@ -127,8 +127,8 @@ python 02_Remove_Duplicates.py
 
 ## 🔗 Submission Links
 
-* GitHub Repository: (Add your link)
-* Spreadsheet Link: (Add your Google Sheets link)
-* Screen Recording: (Add your Drive link)
+* GitHub Repository: (https://github.com/mvstharun374-dot/PlatinumRx-Assignment-by-Tharun/ed)
+* Spreadsheet Link: (https://docs.google.com/spreadsheets/d/1nuQcG51a7xjXs6nitvGZb5BBH4g3LTKcQqnEGco0Pzs/edit?usp=sharing)
+* Screen Recording: (https://drive.google.com/file/d/1MaI1d0dhsvOpC6pnyJT7rav0THczcwK3/view?usp=sharing)
 
 ---
